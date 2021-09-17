@@ -1,2 +1,2 @@
 # CalculadoraAndroidKotlin
-Calculadora Android usando Kotlin
+Calculadora Android usando Kotlin.
